@@ -1,0 +1,1 @@
+A simple and powerful API that converts spoken audio to text and translates it into the desired language. Built using FastAPI and integrates speech recognition and translation models for fast and accurate results.
